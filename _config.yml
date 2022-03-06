@@ -1,19 +1,20 @@
 # Site settings
-title: Your name here
-general_email: your_general_email@gmail.com
-academic_email: your_academic_email@univ
+title: Dian Jiao
+general_email: d.jiao@outlook.com
+academic_email: 
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+  This is the personal homepage of Dian Jiao. This demo site is still under development. The first official version is hopefully to be released in 2022H2. 
 
 baseurl: "/homepage" # the subpath of your site, e.g. /blog/
 
 url: "https://d-jiao.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: github_username
-linkedin_username: linkedin_username
-facebook_username: facebook_username
+github_username: d-jiao
+linkedin_username: Dian Jiao
+linkedin_url: "https://www.linkedin.com/in/dian-jiao-99b701103/"
+facebook_username: 
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings

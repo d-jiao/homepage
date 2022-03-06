@@ -4,12 +4,26 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+# Education Background
+- Aug 2018 - Dec 2019: [MS in Financial Engineering](https://msfe.ieor.columbia.edu/), [the Department of Industrial Engineering and Operations Research](https://www.ieor.columbia.edu/), [Columbia University](https://www.columbia.edu/)
+- Sept 2017 - Jun 2019: [Master of Finance](https://en.saif.sjtu.edu.cn/mf/program-introduction), [Shanghai Advanced Institute of Finance](https://en.saif.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
+- Sept 2013 - Jun 2017: BS in Mathematics and Applied Mathematics, [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
-Describe yourself here. Dummy text ahead.
+# Working Experience
+- Jul 2020 - present: Quantitative Research, Mid-/Low-Frequency Equity, [Ruitian Capital](https://www.ruitiancapital.com/), Shanghai
+- Jun 2019 - Aug 2019: Summer Analyst, Credit Derivatives Research, [Citigroup](https://www.citigroup.com/citi/), New York
+- May 2018 - Aug 2018: Summer Analyst, [Commodities and Global Markets](https://www.macquarie.com/au/en/about/company/commodities-and-global-markets.html), [Macquarie Group](https://www.macquarie.com/au/en.html), Shanghai
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Teaching Experience
+- Fall 2019, Teaching Assistant, Term Structure Modeling (Graduate), Columbia University
+- Spring 2019, Teaching Assistant, Data, Model and Decision (Graduate), Columbia University
+- Spring 2019, Teaching Assistant, Deep Learning (Graduate), Columbia University
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+# Selected Awards
+- 2019, Champion of East Coast Data Open by \textit{Citadel}
+- 2019, Excellent Master Thesis Award, SAIF (top 1\%)
+- 2019, 2017, Honors Graduate of Shanghai (\textit{summa cum laude}-equivalent
+- 2018, 2017, Full Scholarship for Academic Excellence, SAIF (top 2)
+- 2016, Pacesetter of Merit Students, SJTU (top 10, the highest merit-based honor at SJTU)
+- 2015, 2014, National Scholarship (top 1\%)
+- 2012, First Prize of Chinese Mathematical Olympiad (provincial ranking 12-th)
