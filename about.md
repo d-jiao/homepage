@@ -20,10 +20,10 @@ permalink: /about/
 - Spring 2019, Teaching Assistant, Deep Learning (Graduate), Columbia University
 
 # Selected Awards
-- 2019, Champion of East Coast Data Open by \textit{Citadel}
-- 2019, Excellent Master Thesis Award, SAIF (top 1\%)
-- 2019, 2017, Honors Graduate of Shanghai (\textit{summa cum laude}-equivalent
+- 2019, Champion of East Coast Data Open by Citadel)
+- 2019, Excellent Master Thesis Award, SAIF (top 1%)
+- 2019, 2017, Honors Graduate of Shanghai (*summa cum laude*-equivalent)
 - 2018, 2017, Full Scholarship for Academic Excellence, SAIF (top 2)
 - 2016, Pacesetter of Merit Students, SJTU (top 10, the highest merit-based honor at SJTU)
-- 2015, 2014, National Scholarship (top 1\%)
+- 2015, 2014, National Scholarship (top 1%)
 - 2012, First Prize of Chinese Mathematical Olympiad (provincial ranking 12-th)
