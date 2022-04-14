@@ -6,6 +6,7 @@ This is the personal homepage of Dian Jiao. This demo site is still under develo
 
 
 ## Updates
+- 2022.04.14 updated the (incoming) doctoral studies and the color style
 - 2022.03.14 updated the media part, corrected typos
 - 2022.03.09 updated the readme file, the color style, reorganized the site, added all essentials
 - 2022.03.06 updated the about page, added personal updates and profile photo
