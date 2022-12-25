@@ -11,14 +11,15 @@ permalink: /about/
 - 2013 - 2017: BS in Mathematics and Applied Mathematics, [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
 # Working Experience
-- 2020 - present: Quantitative Research, Mid-/Low-Frequency Equity, [Ruitian Capital](https://www.ruitiancapital.com/), Shanghai
+- 2020 - 2022: Quantitative Research, Mid-/Low-Frequency Equity, [Ruitian Capital](https://www.ruitiancapital.com/), Shanghai
 - 2019: Summer Analyst, Credit Derivatives Research, [Citigroup](https://www.citigroup.com/citi/), New York
 - 2018: Summer Analyst, [Commodities and Global Markets](https://www.macquarie.com/au/en/about/company/commodities-and-global-markets.html), [Macquarie Group](https://www.macquarie.com/au/en.html), Shanghai
 
 # Teaching Experience
-- Fall 2019, Teaching Assistant, Term Structure Modeling (Graduate), Columbia University
-- Spring 2019, Teaching Assistant, Data, Model and Decision (Graduate), Columbia University
-- Spring 2019, Teaching Assistant, Deep Learning (Graduate), Columbia University
+- Spring 2023, Teaching Assistant for [Edward Li](https://zicklin.baruch.cuny.edu/faculty-profile/edward-x-li/) and [Sang Wu](https://www8.gsb.columbia.edu/cbs-directory/detail/sw3724), [Financial Accounting](https://courses.business.columbia.edu/B6001) (MBA), Columbia University 
+- Fall 2019, Teaching Assistant for [Dylan Possamaï](https://sites.google.com/site/possamaidylan/), Term Structure Modeling (Graduate), Columbia University
+- Spring 2019, Teaching Assistant for [Vineet Goyal](http://www.columbia.edu/~vg2277/), Data, Model and Decision (Graduate), Columbia University
+- Spring 2019, Teaching Assistant for [Ali Hirsa](https://www.ieor.columbia.edu/faculty/ali-hirsa), Deep Learning (Graduate), Columbia University
 
 # Selected Awards
 - 2019, Champion of East Coast Data Open by Citadel)
