@@ -6,11 +6,9 @@
 This is the personal homepage of Dian Jiao. I aim to have an update on my site at least twice per annum. 
 
 ## Updates
-- 2022.12.25 several minor updates after the first semester at CBS
-- 2022.04.14 updated the (incoming) doctoral studies and the color style
-- 2022.03.14 updated the media part, corrected typos
-- 2022.03.09 updated the readme file, the color style, reorganized the site, added all essentials
-- 2022.03.06 updated the about page, added personal updates and profile photo
+- 2022.12.26 several updates after the first semester at CBS and changes on the format
+- 2022.04.14 updates on the (incoming) doctoral studies and the color map
+- 2022.03.14 reorganization of the site and addition on all the major parts of the site
 - 2022.02.20 initial commit to set up the homepage
 
 ## Acknowledgements

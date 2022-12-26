@@ -1,5 +1,5 @@
-- title: "About"
-  href: "/about/"
+- title: "Vitae"
+  href: "/vitae/"
 
 - title: "Research"
   href: "/research/"
@@ -10,8 +10,8 @@
 # - title: "Blog"
 #   href: "/blog/"
 
-- title: "CV"
-  href: "/cv/"
+# - title: "CV"
+#   href: "/cv/"
 
 - title: "Media"
   href: "/media/"

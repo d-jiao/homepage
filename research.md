@@ -4,8 +4,6 @@ permalink: /research/
 title: Research
 ---
 
-I am primarily interested in learning about how accounting information can shape the market efficiency and the role of information intermediaries like analysts in the process. Also, I want to study how the characteristics of management team and boards members can influence the firms' performance and how the compensation plans can resolve agency problems.
-
 Research projects to be updated soon.
 
 <!-- <h2>Publications</h2>
