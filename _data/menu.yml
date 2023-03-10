@@ -4,24 +4,12 @@
 - title: "Research"
   href: "/research/"
 
-# - title: "Projects"
-#   href: "/projects/"
-
 # - title: "Blog"
 #   href: "/blog/"
 
-# - title: "CV"
-#   href: "/cv/"
+- title: "Teaching"
+  href: "/teaching/"
 
 - title: "Media"
   href: "/media/"
 
-# - title: "Miscellany"
-#   href: "/miscellany/"
-#   subcategories:
-#     - subtitle: "Courses Undertaken"
-#       subhref: "/miscellany/courses/"
-#     - subtitle: "Extracurriculars"
-#       subhref: "/miscellany/extracurricular/"
-#     - subtitle: "Travel"
-#       subhref: "/miscellany/travel/"

@@ -4,7 +4,19 @@ permalink: /research/
 title: Research
 ---
 
-Research projects to be updated soon.
+<h2>Ongoing Projects</h2>
+**Internal Uncertainty and External Communication: Evidence from Corporate Violations**  
+with [Jonas Heese](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159), [Ronghuo Zheng](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/ronghuo-zheng/), and [Yuan Zou](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306)
+
+<!-- <ul>
+	<li>
+		<b>Internal Uncertainty and External Communication: Evidence from Corporate Violations</b><br>
+		
+		<i></i><br>
+		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br>
+</ul> -->
+
 
 <!-- <h2>Publications</h2>
 <ul>
