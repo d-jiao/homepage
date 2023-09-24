@@ -1,10 +1,10 @@
 # Site settings
 title: Dian Jiao
-general_email: d.jiao@outlook.com
+# general_email: d.jiao@outlook.com
 academic_email: dj2526@columbia.edu
 
 description: > # this means to ignore newlines until "baseurl:"
-  This is the Dian Jiao's homepage updated on Mar 9, 2023. I aim to have an update on my site every quarter. 
+  This is the Dian Jiao's homepage updated on Spet 24, 2023. I aim to have an update on my site every quarter. 
 
 baseurl: "/homepage" # the subpath of your site, e.g. /blog/
 

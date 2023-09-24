@@ -5,6 +5,9 @@ title: Research
 ---
 
 <h2>Ongoing Projects</h2>
+**What’s Said vs. What’s Expected: Information Surprise in MD&A Topics**  
+solo-authored, first-year summer paper  
+
 **Internal Uncertainty and External Communication: Evidence from Corporate Violations**  
 with [Jonas Heese](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159), [Ronghuo Zheng](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/ronghuo-zheng/), and [Yuan Zou](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306)
 
