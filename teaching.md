@@ -6,9 +6,9 @@ permalink: /teaching/
 
 # Teaching Experience
 
-Spring 2024 (Scheduled)
+<!-- Spring 2024 (Scheduled)
 - [**Earnings Quality & Fundamental Analysis**](https://courses.business.columbia.edu/B8008) (MBA, Instructor: [Doron Nissim](https://business.columbia.edu/faculty/people/doron-nissim)), Teaching Assistant, Columbia Business School 
-- [**Big Data In Finance**](https://courses.business.columbia.edu/B9334) (PhD, Instructor: [Harry Mamaysky](https://business.columbia.edu/faculty/people/harry-mamaysky)), Teaching Assistant, Columbia Business School 
+- [**Big Data In Finance**](https://courses.business.columbia.edu/B9334) (PhD, Instructor: [Harry Mamaysky](https://business.columbia.edu/faculty/people/harry-mamaysky)), Teaching Assistant, Columbia Business School  -->
 
 Fall 2023
 - [**Financial Accounting**](https://courses.business.columbia.edu/B6001) (MBA, Instructor: [Sehwa Kim](https://sites.google.com/view/sehwakim)), Teaching Assistant, Columbia Business School 
