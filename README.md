@@ -3,9 +3,10 @@
 
 # Dian Jiao's Homepage
 
-This is the Dian Jiao's homepage updated on Mar 9, 2023. I aim to have an update on my site every quarter. 
+This is the Dian Jiao's homepage updated on Dec 23, 2023. I aim to have an update on my site every quarter. 
 
 ## Updates
+- 2023.12.23 updates with teaching
 - 2023.09.25 updates with teaching and research parts
 - 2023.03.09 updates with teaching and research parts, several reformatting
 - 2022.12.26 several updates after the first semester at CBS and changes on the format

@@ -6,12 +6,14 @@ permalink: /teaching/
 
 # Teaching Experience
 
-<!-- Spring 2024 (Scheduled)
+Spring 2024 (Scheduled)
 - [**Earnings Quality & Fundamental Analysis**](https://courses.business.columbia.edu/B8008) (MBA, Instructor: [Doron Nissim](https://business.columbia.edu/faculty/people/doron-nissim)), Teaching Assistant, Columbia Business School 
-- [**Big Data In Finance**](https://courses.business.columbia.edu/B9334) (PhD, Instructor: [Harry Mamaysky](https://business.columbia.edu/faculty/people/harry-mamaysky)), Teaching Assistant, Columbia Business School   -->
+- [**Big Data In Finance**](https://courses.business.columbia.edu/B9334) (PhD, Instructor: [Harry Mamaysky](https://business.columbia.edu/faculty/people/harry-mamaysky)), Teaching Assistant, Columbia Business School  
 
 Fall 2023
 - [**Financial Accounting**](https://courses.business.columbia.edu/B6001) (MBA, Instructor: [Sehwa Kim](https://sites.google.com/view/sehwakim)), Teaching Assistant, Columbia Business School 
+    - Slides: <a href="Financial_Accounting_Recitation_Midterm.pdf">Midterm Review</a>, <a href="Financial_Accounting_Recitation_Nov_3.pdf">Receivables and Cash Flow Statement</a>, <a href="Financial_Accounting_Recitation_Nov_10.pdf">Receivables, Bonds, and PP&E</a>, <a href="Financial_Accounting_Recitation_Nov_17.pdf">Receivables, PP&E, and Tax</a>, <a href="Financial_Accounting_Recitation_Finals.pdf">Final Review</a>
+    - Templates: <a href="Template_Midterm.xlsx">Sample Midterm</a>, <a href="Template_SCF.xlsx">Cash Flow Statement</a>, <a href="Template_Bond_Amortization.xlsx">Bond Amortization</a>, <a href="Template_Receivables_PPE_Tax.xlsx">Receivables, PP&E, and Tax</a>, <a href="Template_Final.xlsx">Sample Final</a>
 - [**Financial Accounting**](https://courses.business.columbia.edu/B5001) (EMBA, Instructor: [Amir Ziv](https://business.columbia.edu/faculty/people/amir-ziv)), Teaching Assistant, Columbia Business School 
 
 Summer 2023

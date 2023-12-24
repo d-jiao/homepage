@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 
-<h2>Ongoing Projects</h2>
+# Work in Progress
 **What’s Said vs. What’s Expected: Information Surprise in MD&A Topics**  
 solo-authored, first-year summer paper  
 
