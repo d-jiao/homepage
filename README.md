@@ -6,6 +6,7 @@
 This is the Dian Jiao's homepage updated on Dec 23, 2023. I aim to have an update on my site every quarter. 
 
 ## Updates
+- 2024.06.02 content updates
 - 2023.12.23 updates with teaching
 - 2023.09.25 updates with teaching and research parts
 - 2023.03.09 updates with teaching and research parts, several reformatting

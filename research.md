@@ -3,13 +3,20 @@ layout: page
 permalink: /research/
 title: Research
 ---
+# Working Paper
+**Mandatory US subsidy disclosures: Early evidence**  
+with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shiva Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://academics.business.columbia.edu/node/1550)
 
 # Work in Progress
+**Sequential Voluntary Disclosure**  
+solo-authored, second-year summer paper  
+
 **What’s Said vs. What’s Expected: Information Surprise in MD&A Topics**  
 solo-authored, first-year summer paper  
 
-**Internal Uncertainty and External Communication: Evidence from Corporate Violations**  
-with [Jonas Heese](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159), [Ronghuo Zheng](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/ronghuo-zheng/), and [Yuan Zou](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306)
+
+<!-- **Internal Uncertainty and External Communication: Evidence from Corporate Violations**  
+with [Jonas Heese](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159), [Ronghuo Zheng](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/ronghuo-zheng/), and [Yuan Zou](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306) -->
 
 <!-- <ul>
 	<li>
