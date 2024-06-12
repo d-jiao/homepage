@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 # Working Paper
-**Mandatory US subsidy disclosures: Early evidence**  
+**Mandatory US Subsidy Disclosures: Early Evidence**  
 with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shiva Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://academics.business.columbia.edu/node/1550)
 
 # Work in Progress
