@@ -5,16 +5,20 @@ title: Research
 ---
 # Working Paper
 **Mandatory US Subsidy Disclosures: Early Evidence**  
-with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shiva Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://academics.business.columbia.edu/node/1550)
+with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://academics.business.columbia.edu/node/1550)
+- Presentations: 2024 Barcelona Accounting Summer Workshop, 2024 CBS Accounting Reading Group\*, 2025 Hawai'i Accounting Research Conference\*
 
 # Work in Progress
 **Sequential Voluntary Disclosure**  
 solo-authored, second-year summer paper  
 
+**Regulating Mutual Fund Names**  
+with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.shivarajgopal.com/)
+
 **What’s Said vs. What’s Expected: Information Surprise in MD&A Topics**  
 solo-authored, first-year summer paper  
 
-
+\* *Indicates presentations by me*
 <!-- **Internal Uncertainty and External Communication: Evidence from Corporate Violations**  
 with [Jonas Heese](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159), [Ronghuo Zheng](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/ronghuo-zheng/), and [Yuan Zou](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306) -->
 

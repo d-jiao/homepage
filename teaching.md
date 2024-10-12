@@ -5,8 +5,9 @@ permalink: /teaching/
 ---
 
 # Teaching Experience
-Fall 2024 (Scheduled)
+Fall 2024 
 - [**Financial Accounting**](https://courses.business.columbia.edu/B5001) (EMBA, Instructor: [Amir Ziv](https://business.columbia.edu/faculty/people/amir-ziv)), Teaching Assistant, Columbia Business School 
+- [**Financial Accounting**](https://courses.business.columbia.edu/B6001) (MBA, Instructor: [Sehwa Kim](https://sites.google.com/view/sehwakim)), Teaching Assistant, Columbia Business School 
 
 Summer 2024
 - [**Financial Accounting**](https://courses.business.columbia.edu/B5001) (EMBA, Instructor: [Amir Ziv](https://business.columbia.edu/faculty/people/amir-ziv)), Teaching Assistant, Columbia Business School 

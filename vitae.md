@@ -10,7 +10,15 @@ My curriculum vitae has not been updated since the PhD application. You may find
 </ul> -->
 
 # Education Background
-[**Columbia University**](https://www.columbia.edu/), [Columbia Business School](https://home.gsb.columbia.edu/)   
+[**Columbia University**](https://www.columbia.edu/), New York, NY  
+[PhD in Accounting](https://www8.gsb.columbia.edu/faculty-research/divisions/accounting/doctoral), 2022 - 2027 (expected)  
+[MS in Financial Engineering](https://msfe.ieor.columbia.edu/) (Dual Degree Program), 2018 - 2019
+
+[**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/), Shanghai, China  
+[Master of Finance](https://en.saif.sjtu.edu.cn/mf/program-introduction) (Dual Degree Program with Columbia), 2017 - 2019  
+BS in Mathematics and Applied Mathematics, 2013 - 2017
+
+<!-- [**Columbia University**](https://www.columbia.edu/), [Columbia Business School](https://home.gsb.columbia.edu/)   
 [PhD in Accounting](https://www8.gsb.columbia.edu/faculty-research/divisions/accounting/doctoral), 2022 - 2027 (expected) 
 
 [**Columbia University**](https://www.columbia.edu/), [the Department of Industrial Engineering & Operations Research](https://www.ieor.columbia.edu/)  
@@ -20,7 +28,7 @@ My curriculum vitae has not been updated since the PhD application. You may find
 [Master of Finance](https://en.saif.sjtu.edu.cn/mf/program-introduction) (Dual Degree Program), 2017 - 2019
 
 [**Shanghai Jiao Tong University**](https://en.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)  
-BS in Mathematics and Applied Mathematics, [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index), 2013 - 2017
+BS in Mathematics and Applied Mathematics, [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index), 2013 - 2017 -->
 
 
 # Working Experience
