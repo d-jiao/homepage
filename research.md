@@ -8,7 +8,7 @@ title: Research
 with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://academics.business.columbia.edu/node/1550)
 - Presentations: 2024 Barcelona Accounting Summer Workshop, 2024 CBS Accounting Reading Group\*, 2025 Hawai'i Accounting Research Conference\*
 
-**Regulating Mutual Fund Names**  
+**The Name Game: Regulating Mutual Fund Names**  
 with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.shivarajgopal.com/)
 - Presentations: MIT Sloan Accounting Seminar, Columbia Business School Brown Bag
 
