@@ -5,10 +5,11 @@ permalink: /teaching/
 ---
 
 # Teaching Experience
-Spring 2025 (Scheduled)
+Spring 2025
 - [**Big Data In Finance**](https://courses.business.columbia.edu/B9334) (PhD, Instructor: [Harry Mamaysky](https://business.columbia.edu/faculty/people/harry-mamaysky)), Teaching Assistant, Columbia Business School  
 - [**Earnings Quality & Fundamental Analysis**](https://courses.business.columbia.edu/B8008) (MBA, Instructor: [Jonathan Glover](https://business.columbia.edu/faculty/people/jonathan-glover)), Teaching Assistant, Columbia Business School 
 - [**Financial Statement Analysis and Valuation**](https://courses.business.columbia.edu/B8009) (MBA, Instructor: [Kalash Jain](https://kalashjain.me/)), Teaching Assistant, Columbia Business School 
+- [**Financial Accounting**](https://courses.business.columbia.edu/B9030) (MSFE, Instructor: [Amir Ziv](https://business.columbia.edu/faculty/people/amir-ziv)), Teaching Assistant, Columbia Business School 
 
 Fall 2024 
 - [**Financial Accounting**](https://courses.business.columbia.edu/B6001) (MBA, Instructor: [Sehwa Kim](https://sites.google.com/view/sehwakim)), Teaching Assistant, Columbia Business School 

@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 # Working Paper
-**Mandatory US Subsidy Disclosures: Early Evidence**  
+**[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135879)**  
 with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://academics.business.columbia.edu/node/1550)
 - Presentations: 2024 Barcelona Accounting Summer Workshop, 2024 CBS Accounting Reading Group\*, 2025 Hawai'i Accounting Research Conference\*
 
@@ -16,7 +16,7 @@ with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.s
 **Sequential Voluntary Disclosure**  
 solo-authored, second-year summer paper  
 
-**What’s Said vs. What’s Expected: Information Surprise in MD&A Topics**  
+**What's Said vs. What's Expected: Information Surprise in MD&A Topics**  
 solo-authored, first-year summer paper  
 
 \* *Indicates presentations by me*
